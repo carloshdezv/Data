@@ -1,1 +1,1 @@
-Proyectos relevandes desarrollados en el Diplomado de Estadistica
+Proyectos relevantes desarrollados en el Diplomado de Estadística
