@@ -10,3 +10,5 @@ words whose names do not match the colors in which they are printed: for
 example PURPLE, ORANGE. In each case, we measure the time it takes to name the ink
 colors in equally-­sized lists. Each participant will go through and record a time from each
 condition.
+
+Download Documentation: https://udacity-github-sync-content.s3.amazonaws.com/_submissions/43858_wh9xe.zip
