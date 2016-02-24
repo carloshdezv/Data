@@ -53,15 +53,25 @@ In year 2009, Lending total amount had the lowest level, after Prosper defined a
 ##Resources
 
 https://www.prosper.com/plp/about/
+
 https://www.prosper.com/help/topics/how-to-read-a-loan-listing/
+
 http://www.magnifymoney.com/blog/pay-down-my-debt/prosper-personal-loan-review820481381
+
 http://www.lendacademy.com/prosper-205-million-december/
+
 https://www.sba.gov/content/7a-loan-amounts-fees-interest-rates
+
 http://bits.blogs.nytimes.com/2009/04/28/prospercom-reopens-for-lending/?_r=0
+
 http://www.nytimes.com/2008/10/16/technology/start-ups/16peer.html?_r=0
+
 http://dimplejs.org/
+
 http://dimplejs.org/advanced_examples_viewer.html?id=advanced_storyboard_control
+
 https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.chart
+
 https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.series
 
 ##Data
