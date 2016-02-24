@@ -67,4 +67,5 @@ https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.series
 ##Data
 
 prosperLoanData7.csv: summarized dataset for better performance.
+
 prosperLoanData8.csv: dataset with detail data for 2013 year.
