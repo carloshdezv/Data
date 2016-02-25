@@ -50,11 +50,11 @@ Chart titles and data context are not clear. Lending behaviour, trends and amoun
 
 In year 2009, Lending total amount had the lowest level, after Prosper defined a growth strategy, better results were seen from 2010 to 2013. It would be great if this metric could be compared with the loan original amount goal for the same period. Please provide the objective and the context of the charts.
 
-###Retro 4.
+###Retro 4
 
 A explanation of each chart could be great, highlight main facts on charts if possible, the charts by themselves should explain the findings.
 
-###Retro 5.
+###Retro 5
 
 The charts are clear on design, there is a trend view on growth from 2009 to 2013 year, why 2009 was the year with less lending total amount?, there is a relationship between lending total amount and average lending total amount.
 
