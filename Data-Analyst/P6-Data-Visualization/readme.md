@@ -5,7 +5,7 @@
 
 This project shows 3 different charts. the first two shows lending total amount and average lending amount per year from 2006 to 2013, the last chart is an exploratory chart that shows lending total amount and Interests and fees comparison by Prosper Rating range and 2013 quarters.
 
-###Gist.
+###Gist
 
 https://gist.github.com/carloshdezv/caa8983df628ecc913d9
 
