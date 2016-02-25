@@ -13,7 +13,7 @@ I use Tableau Public to get a sense from the data, I was curious how lending amo
 
 Exploring the data, I wondered if the lending amount increase in 2013 has the same behaviour with the average lending amount and how the interest rates were related.
 
- I use Excel to do some data munging (remove incomplete data from 2005 and 2014), created new column called "LoanOriginationYear" to extract the year from the "LoanOriginationDate". 
+I use Excel to do some data munging (remove incomplete data from 2005 and 2014), created new column called "LoanOriginationYear" to extract the year from the "LoanOriginationDate". For performance purposes, I did a summarized file by year with Lending Total Amount and a detailed file  with the necesary fields for the last chart with 2013 data.
 
 
 ###Data Visualization (dimple.js)
@@ -22,11 +22,11 @@ I decided to use dimple.js in order to simplify code.
 
 I consider using line  and bar charts to show trends over time, maintaining one color in all the charts because only one category is used.  The percentage symbol (%) was included on y axis ticks in order to get a clear interest rate understanding. The first version is drawn from index initial.html.
 
-After reviewing feedback I've decided to exclude interest rate chart and focus the visualization on loan origination history, the titles were changed to emphasize Prosper's highest growth on lending total amount and average lending amount in 2013.
+After reviewing feedback I've decided to exclude interest rate chart and focus the visualization on loan origination history, the titles were changed to emphasize Prosper's highest growth on lending total amount and average lending amount in 2013. 2009 and 2013 years were highligthed with color on charts in order to focus attention on events occured on that years. A last exploratory chart was added for user interactive purposes.
 
 ##Feedback
 
-I gathered retro from 3 different people, this is a summary of all of them.
+I gathered retro from 5 different people, this is a summary of all of them.
 
 ###Retro 1
 
