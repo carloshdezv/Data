@@ -3,8 +3,7 @@
 
 ##Summary
 
-This project shows 2 different charts. It shows lending total amount and average lending  amount per year from 2006 to 2013.
-
+This project shows 3 different charts. the first two shows lending total amount and average lending amount per year from 2006 to 2013, the last chart is an exploratory chart that shows lending total amount and Interests and fees comparison by Prosper Rating range and 2013 quarters.
 
 ##Design
 
@@ -43,12 +42,11 @@ In year 2009, Lending total amount had the lowest level, after Prosper defined a
 
 ###Retro 4.
 
-<desc>
+A explanation of each chart could be great, highlight main facts on charts if possible, the charts by themselves should explain the findings.
 
 ###Retro 5.
 
-<desc>
-
+The charts are clear on design, there is a trend view on growth from 2009 to 2013 year, why 2009 was the year with less lending total amount?, there is a relationship between lending total amount and average lending total amount.
 
 ##Resources
 
