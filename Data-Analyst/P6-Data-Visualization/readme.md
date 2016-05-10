@@ -15,6 +15,10 @@ Check out the visualization on this link:
 
 http://bl.ocks.org/carloshdezv/raw/caa8983df628ecc913d9/
 
+or
+
+https://github.com/carloshdezv/Data/blob/master/Data-Analyst/P6-Data-Visualization/img/index_final.pdf
+
 ##Design
 
 ###Exploratory Data Analysis and Cleaning (Tableau)
